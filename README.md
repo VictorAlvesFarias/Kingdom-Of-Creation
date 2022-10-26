@@ -60,7 +60,7 @@
         <h2>Melhorias em relação ao projeto anterior:</h2>
         <ul>
             <li>Colisão implementada
-            <li>Game Desing
+            <li>Game Design
             <li>Melhor inserção e tratamento das imagens.
         </ul>
         <h3>Feito em Fevereiro de 2022 - Outubro de 2022</h3>
